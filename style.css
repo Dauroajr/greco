@@ -49,7 +49,6 @@ ul {
     padding: 8px;
     font-size: 0.8em;
     text-decoration: none;
-    /* color: #000000; */
     color: blanchedalmond;
 
 }
@@ -60,9 +59,9 @@ ul {
 }
 
 .name {
-    font-family: 'Roboto Serif';
-    font-weight: 200;
-    font-size: 2.6em;
+    font-family: 'Cormorant';
+    font-weight: 400;
+    font-size: 3em;
     color: black;
     color: rgb(247, 207, 155);
     margin-left: auto;
