@@ -7,13 +7,14 @@ body {
     font-family: 'Times New Roman', Times, serif;
     background-color: rgb(160, 160, 160);
     background-image: url(commander3.png);
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     background-blend-mode: hard-light;
     height: 100vh;
 }
+
 
 header {
     box-sizing: border-box;
@@ -28,7 +29,6 @@ header {
     font-size: 1.2em;
     font-weight: 500;
     align-items: center;
-
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.527),
           inset 4px 4px 8px rgba(177, 177, 177, 0.726);
 }
@@ -105,8 +105,9 @@ ul {
     color: var(--clr);
     transition: 0.5s;
     background-color: rgb(230, 230, 230);
-
 }
+
+
 
 
 
